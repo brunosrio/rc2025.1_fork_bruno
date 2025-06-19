@@ -74,7 +74,6 @@ Amplitude
 
 ## Setup do ambiente
 
-<!-- Implementação dos Codificadores -->
 Requisistos : 
 
 - Computador com Windows, Linux ou macOS (não testado)
@@ -110,21 +109,6 @@ BIT_DURATION = 1.0   # 1 segundo por bit
 FREQ_LOW = 440       # Frequência para '0' (Lá)
 FREQ_HIGH = 880      # Frequência para '1' (Lá oitava)
 ```
-
-
-<!-- 
-## Parte 3: Roteiro do Laboratório
-
-Execute as etapas observando os codigos para
-
-**Etapa 1:** Explore esta etapa para se familiarizar com a codificação/modulação de dados
-
-**Etapa 2:** Decodificação/Demodulação de dados
-
-**Etapa 3:** Execute `exercicio_ruido()` para ver o efeito do ruído
-
-**Etapa 4:** Execute `exercicio_microfone()` para a experiência completa 
--->
 
 ## Roteiro do Laboratório
 
